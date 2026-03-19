@@ -1,0 +1,7 @@
+{
+  "name": "Rental Rate",
+  "description": "A tenant-first rating and review platform for South African letting companies and landlords, promoting transparency and trust in the rental sector.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
